@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toggle-changer/static/css/main.e513563a.css",
+    "main.js": "/toggle-changer/static/js/main.a0e4d854.js",
+    "static/js/453.68debe5d.chunk.js": "/toggle-changer/static/js/453.68debe5d.chunk.js",
+    "index.html": "/toggle-changer/index.html",
+    "main.e513563a.css.map": "/toggle-changer/static/css/main.e513563a.css.map",
+    "main.a0e4d854.js.map": "/toggle-changer/static/js/main.a0e4d854.js.map",
+    "453.68debe5d.chunk.js.map": "/toggle-changer/static/js/453.68debe5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e513563a.css",
+    "static/js/main.a0e4d854.js"
+  ]
+}
